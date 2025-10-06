@@ -1,7 +1,7 @@
 {
   "id": "473c2f91-8d8f-4596-a186-f80eb39d4289",
   "name": "ExternDocAttach",
-  "publisher": "Default Publisher",
+  "publisher": "Kodoo Consulting Ltd.",
   "version": "26.0.0.0",
   "brief": "Store document attachments externally",
   "description": "Store document attachments using external file stores such as Aure Blob Storage - rahter than within the BC database",
