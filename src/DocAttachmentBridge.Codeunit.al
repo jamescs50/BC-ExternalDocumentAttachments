@@ -5,7 +5,7 @@ using System.Environment;
 using System.Utilities;
 
 
-codeunit 84359 "kd_ex_DocAttachmentBridge"
+codeunit 84359 "DocAttachmentBridge"
 {
     #region eevent subscribers
 
