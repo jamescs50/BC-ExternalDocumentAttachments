@@ -1,0 +1,10 @@
+.alpackages/
+.alcache/
+.snapshots/
+.vscode/*
+!.vscode/settings.json
+!.vscode/extensions.json
+!.vscode/*.ruleset.json
+*.app
+*.dep
+Translations/*.g.xlf

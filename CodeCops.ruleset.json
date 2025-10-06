@@ -1,0 +1,42 @@
+{
+    "name": "Data-Bridge Cronus ruleset",
+    "description": "Salesperson Commission ruleset",
+    "rules": [
+        {
+            "id": "AS0051",
+            "action": "None",
+            "justification": "Not enforcing privacy rule during development"
+        },
+        {
+            "id": "AS0052",
+            "action": "None",
+            "justification": "Not enforcing url rule during development"
+        },
+        {
+            "id": "AS0054",
+            "action": "None",
+            "justification": "using namespaces"
+        },
+        {
+            "id": "AA0072",
+            "action": "None",
+            "justification": "Do not agree with object suffix requirement for variables"
+        },
+        {
+            "id": "AS0092",
+            "action": "None",
+            "justification": "Instrumentation suspended"
+        },
+        {
+            "id": "AA0232",
+            "action": "None",
+            "justification": "SIFT Key suspended"
+        },
+        {
+            "id": "AS0084",
+            "action": "None",
+            "justification": "OnPremise so dont want object rule"            
+        }
+        
+    ]
+}
