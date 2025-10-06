@@ -1,0 +1,18 @@
+{
+    "al.enableCodeAnalysis": true,
+    "al.codeAnalyzers": [
+        "${CodeCop}",
+        "${UICop}",
+        "${AppSourceCop}"
+    ],
+    "al.ruleSetPath": "CodeCops.Ruleset.json",
+    "al.showHomeAtStartup": "Always",
+    "CRS.FileNamePattern": "<ObjectNameShort>.<ObjectTypeShortPascalCase>.al",
+    "CRS.FileNamePatternExtensions": "<ObjectNameShort>.<ObjectTypeShortPascalCase>.al",
+    "CRS.FileNamePatternPageCustomizations": "<ObjectNameShort>.<ObjectTypeShortPascalCase>.al",
+    "CRS.OnSaveAlFileAction": "DoNothing",
+    "CRS.RenameWithGit": true,
+    
+
+    "CRS.RemovePrefixFromFilename": true,
+}

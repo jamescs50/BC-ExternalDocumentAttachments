@@ -1,0 +1,34 @@
+{
+  "id": "473c2f91-8d8f-4596-a186-f80eb39d4289",
+  "name": "ExternDocAttach",
+  "publisher": "Default Publisher",
+  "version": "26.0.0.0",
+  "brief": "Store document attachments externally",
+  "description": "Store document attachments using external file stores such as Aure Blob Storage - rahter than within the BC database",
+  "privacyStatement": "https://github.com/jamescs50/BC-ExternalDocumentAttachments",
+  "EULA": "https://github.com/jamescs50/BC-ExternalDocumentAttachments/LICENSE",
+  "help": "https://github.com/jamescs50/BC-ExternalDocumentAttachments",
+  "url": "https://github.com/jamescs50/BC-ExternalDocumentAttachments",
+  "logo": "res/KodooHead.png",
+  "dependencies": [  ],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "26.0.0.0",
+  "idRanges": [
+    {
+      "from": 84359,
+      "to": 84360
+    }
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": true,
+    "includeSourceInSymbolFile": true
+  },
+  "runtime": "15.1",
+  "features": [
+    "NoImplicitWith",
+    "TranslationFile",
+    "NoPromotedActionProperties"
+  ]
+}
