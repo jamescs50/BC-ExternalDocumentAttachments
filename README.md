@@ -1,5 +1,8 @@
 ### Store document attachments using External File Storage.
 
+NB: it is likely that this app will be obsoleted by standard functionality - 
+see https://github.com/microsoft/BCApps/pull/4495
+
 This app allows BC administrators to store document attachments in Azure Blob storage or other external file stores - instead of within the BC database. This will reduce database size.
 
 This app makes use of the [External File Storage](https://learn.microsoft.com/en-us/dynamics365/release-plan/2025wave1/smb/dynamics365-business-central/manage-external-files-more-easily-through-unified-api-external-file-storage-module) introduced in version 26. 
